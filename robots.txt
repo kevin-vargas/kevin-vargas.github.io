@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://vargas.ar/sitemap.xml
+Host: vargas.ar

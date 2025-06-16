@@ -1,7 +1,7 @@
 {
   "name": "Kevin Vargas - Software Engineer",
   "short_name": "Kevin Vargas",
-  "description": "Software Engineer with expertise in Full Stack Development, Node.js, TypeScript, AWS, and Cloud Technologies",
+  "description": "Software Engineer specialized in System Architecture and Backend Development",
   "start_url": "/",
   "icons": [
     {
@@ -25,7 +25,9 @@
   "categories": [
     "business",
     "technology",
-    "professional"
+    "development",
+    "productivity",
+    "professional services"
   ],
   "scope": "/"
 }
